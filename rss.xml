@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Portrait & Personal Photography By David Cross (Not the Comedian)]]></title>
         <description><![CDATA[Portrait & Personal Photography By David Cross (Not the Comedian)]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://bluebokeh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 22:30:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 22:34:27 GMT</lastBuildDate>
+        <atom:link href="http://bluebokeh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I can't currently view my new site. Not too sure why so I'm going to try adding more contents to see if that makes a difference. More photos...? Sure, I have tons of those!</p>]]></description>
-            <link>undefined1447cef2-7498-483f-b65c-edcc71afaf03/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bb9daf4-6d16-4129-bec3-498e0de8ff34.jpg">]]></description>
+            <link>http://bluebokeh.com/1447cef2-7498-483f-b65c-edcc71afaf03/index.html</link>
             <guid isPermaLink="false">1447cef2-7498-483f-b65c-edcc71afaf03</guid>
-            <pubDate>Sun, 31 Jan 2016 22:30:36 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 22:34:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
