@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Cross Portraits
 favicon: null
+name: Cross Portraits
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.453405
-layout_spectrum: 0.3205704754218459
+layout_spectrum: 1
