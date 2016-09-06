@@ -1,11 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Portrait & Personal Photography By David Cross (Not the Comedian)
+purpose: []
 collections:
   - index:
       path: /
@@ -18,24 +12,30 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 1
-title: Portrait & Personal Photography By David Cross (Not the Comedian)
-cta:
-  bucket: null
-  version: null
-  domain: null
 color:
-  saturation: 0.3125
+  saturation: 0.8709677
   brandStrength: 0.25
-  rhythmicContrast: 0.75
+  lightness: 0.7741935
   brandColors:
     - '#000000'
     - '#3b4141'
     - '#fefdfb'
     - '#b8b6b9'
     - '#5e6472'
-  lightness: 0.5625
-purpose: []
+  rhythmicContrast: 0.2616487
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: Cross Portraits
-typography_spectrum: 0.453405
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 1
